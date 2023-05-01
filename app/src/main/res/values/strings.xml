@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Registration Form</string>
+    <string name="edit_text_register">Register</string>
+    <string name="edit_text_first_name">First Name</string>
+    <string name="edit_text_last_name">Last Name</string>
+    <string name="edit_text_phone_no">Phone No.</string>
+    <string name="edit_text_email">Email</string>
+    <string name="edit_text_password">Password</string>
+    <string name="button_create_account">CREATE ACCOUNT</string>
+    <string name="your_account_details">Your Account Details</string>
+</resources>
